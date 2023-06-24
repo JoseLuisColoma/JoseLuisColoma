@@ -1,5 +1,4 @@
-<h2 align="left">Hi there 👋, I'm Jose Luis</h2>
-<h2 align="center">👨🏻‍💻 Full-Stack Developer</h2>
+<h2 align="left">Hi there 👋, I'm Jose Luis <span align="center">👨🏻‍💻 Full-Stack Developer</span></h2>
 <hr/>
 <div align="center">
 
@@ -26,15 +25,12 @@
 - 🤔 I’m looking for help with React, Go, Redis
 
 - 📫 How to reach me:
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/jocodev" height="30" width="40" /
+  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/jocodev" height="40" width="50" style="margin-right: 50px;" />
   </a>
-  <a href="https://instagram.com/jocodev" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/jocodev" height="30" width="40" margin-right="40"/>
+    <a href="https://www.github.com/JoseLuisColoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github/jocodev" height="40" width="50" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.github.com/JoseLuisColoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github/jocodev" height="30" width="40" margin="40" />
+  <a href="https://instagram.com/jocodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/jocodev" height="40" width="50" style="margin-right: 50px;" />
   </a>
 </p>
 
@@ -61,16 +57,16 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="40"/> 
   </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a> 
-   <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n" target="_blank" rel="noreferrer"> 
+  <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="80" height="40"/>
   </a> 
-
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a> 
+  
 <h4 align="left">Frameworks</h4>
 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -138,7 +134,9 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <hr>
 
 <div align="left">
-### ➡️ 🥰 Interests:
+  
+<h3> ➡️ 🥰 Interests:</h3>
+
 - ♟️ Chess
   
 - ✈️ Travel
@@ -149,7 +147,9 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
   
 - 🐄 foodie
 
-### ➡️ 🤔 About me:
+<hr>
+
+<h3>➡️ 🤔 About me:</h3>
 
 - Web Developer from Valencia, Spain.
 
@@ -160,6 +160,8 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 - 🐇 Following the white rabbit
   
 - 🚀 One day I will see humans on Mars!
+
+</div>
 
 <br>
 
@@ -172,7 +174,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <hr/>
 
-<h4>Connect with me on:</h4>
+<h3>Connect with me on:</h3>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)]()
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://www.linkedin.com/in/jlcoloma/)
@@ -183,10 +185,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 👀 visitor count
   
 <img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="presentation" />
-
-
-</div>
-
 
 <hr/>
 
