@@ -1,9 +1,9 @@
-<h2 align="center">Hi there 👋, I'm Jose Luis</h2>
+<h2 align="left">Hi there 👋, I'm Jose Luis</h2>
 <h2 align="center">👨🏻‍💻 Full-Stack Developer</h2>
 <hr/>
 <div align="center">
 
-### ➡️ 📘 Portfolio: <i>https://joseluiscoloma.github.io/portfolio/</i>
+### 📘 Portfolio: <i>https://joseluiscoloma.github.io/portfolio/</i>
   
 </div>
 
@@ -107,8 +107,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
   <a href="https://www.apache.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="100" height="40"/> 
   </a> 
-
-https://www.vectorlogo.zone/logos/apache/apache-official.svg
   
  <h4 align="left">Databases</h4>
  
@@ -167,9 +165,16 @@ https://www.vectorlogo.zone/logos/apache/apache-official.svg
 
 <br>
 
-<div>
+<div align="center>
   
 [![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/JoseLuisCololma/github-readme-stats)
+
+</div>
+
+<hr>
+
+<div align="center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/JoseLuisColoma/github-readme-stats)
   
 </div>
