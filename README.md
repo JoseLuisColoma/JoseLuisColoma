@@ -71,8 +71,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="80" height="40"/>
   </a> 
 
-  https://www.vectorlogo.zone/logos/golang/golang-ar21.svg
-
 <h4 align="left">Frameworks</h4>
 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -165,19 +163,12 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <br>
 
-<div align="center>
-  
 [![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/JoseLuisCololma/github-readme-stats)
-
-</div>
 
 <hr>
 
-<div align="center>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/JoseLuisColoma/github-readme-stats)
   
-</div>
 
 <hr/>
 
@@ -187,11 +178,12 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://www.linkedin.com/in/jlcoloma/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/HayatTamboli)
 
-<div>
+<hr/>
   
 👀 visitor count
   
 <img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="presentation" />
+
 
 </div>
 
