@@ -20,15 +20,7 @@
   
 - 🤔 I’m looking for help with React, Go, Redis
   
-- 📫 How to reach me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/jocodev" height="30" width="40" style="margin-right: 5px;" />
-  </a>
-    <a href="https://www.github.com/JoseLuisColoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github/jocodev" height="30" width="40" style="margin-right: 5px;" />
-  </a>
-  <a href="https://instagram.com/jocodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/jocodev" height="30" width="40" style="margin-right: 5px;" />
-  </a>
-</div>
+- 📫 How to reach me: <i>[mail](colomatormojl@gmail.com)</i>
 
 <hr>
 
@@ -173,6 +165,11 @@
 <hr/>
 
 <h3>Connect with me on:</h3>
+
+
+
+<h3>Connect with me on:</h3>
+<img src="https://profile-counter.glitch.me/JoseLuisColoma/count.svg" alt="Contador de Visitas">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)]()
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://www.linkedin.com/in/jlcoloma/)
