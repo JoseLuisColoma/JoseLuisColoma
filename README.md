@@ -161,7 +161,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&t&show_icons=true&bg_color=00000000&hide=html,css)
 <hr>
 <h3>➡️ 🔗 Connect with me</h3>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin/jocodev" height="50" width="50" style="margin-right:40px"/>
+  </a>
+  <a href="https://www.instagram.com/jocodev/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram/jocodev" height="50" width="50" style="margin-right:40px"/>
+  </a>
+  <a href="https://www.twitter.com/jocodev" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:40px"/>
+  </a>
+</div>
 
 <hr>
 <h3>➡️ 👀 Visitors</h3>
