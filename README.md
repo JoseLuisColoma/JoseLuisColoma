@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋, I'm Jose Luis <span> ➡️ 👨🏻‍💻 Full-Stack Developer</span></h2>
 
-### 📘 Portfolio: <i>https://joseluiscoloma.github.io/portfolio/</i>
+## 📣 Visit my [Portfolio](https://joseluiscoloma.github.io/portfolio)
 
 <hr/>
 
@@ -175,14 +175,6 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)]()
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://www.linkedin.com/in/jlcoloma/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/HayatTamboli)
-
-<hr/>
-  
-👀 visitor count
-
-<img src="https://pebble-tortoiseshell-age.glitch.me/" alt="contador_visitas" />
-
-<hr/>
 
 
 
