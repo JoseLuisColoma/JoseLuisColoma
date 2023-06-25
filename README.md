@@ -130,10 +130,10 @@
 
 <div>Metodologies:
   <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="70" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a>
-    <a href="https://www.kanban.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
+    <a href="https://www.scrum.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/JoseLuisColoma/contador.html/scrum-svgrepo-com.svg" alt="scrum" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a>
   
 </div>
