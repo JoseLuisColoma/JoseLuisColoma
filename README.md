@@ -1,10 +1,6 @@
 <h2 align="left">Hi there 👋, I'm Jose Luis <span> ➡️ 👨🏻‍💻 Full-Stack Developer</span></h2>
-<hr/>
-<div align="center">
 
 ### 📘 Portfolio: <i>https://joseluiscoloma.github.io/portfolio/</i>
-  
-</div>
 
 <hr/>
 
@@ -183,8 +179,8 @@
 <hr/>
   
 👀 visitor count
-  
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="presentation" />
+
+<img src="https://pebble-tortoiseshell-age.glitch.me/" alt="contador_visitas" />
 
 <hr/>
 
