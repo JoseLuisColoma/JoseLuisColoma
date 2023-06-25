@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="50" height="40" style="margin-right: 10px;"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
@@ -93,7 +93,7 @@
  <br><br>
  <div>Databases:
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="70" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" style="margin-right: 10px;"/>
@@ -152,30 +152,18 @@
 
 <br>
 
-
-
 [![jocodev's github stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/JoseLuisCololma/github-readme-stats)
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/JoseLuisColoma/github-readme-stats)
   
-
 <hr/>
 
 <h3>Connect with me on:</h3>
 
-
-
-
-
 <h3>👀 Visitors</h3>
 <img src="https://profile-counter.glitch.me/JoseLuisColoma/count.svg" alt="Contador de Visitas">
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)]()
-[![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://www.linkedin.com/in/jlcoloma/)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/HayatTamboli)
-
 
 
 
