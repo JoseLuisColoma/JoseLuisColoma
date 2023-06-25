@@ -132,9 +132,6 @@
   <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="70" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a>
-    <a href="https://www.scrum.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/JoseLuisColoma/contador.html/scrum-svgrepo-com.svg" alt="scrum" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
-  </a>
   
 </div>
 
@@ -180,7 +177,7 @@
 
 <br>
 
-[![jocodev's github stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/JoseLuisCololma/github-readme-stats)
+![jocodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true)
 
 <hr>
 
