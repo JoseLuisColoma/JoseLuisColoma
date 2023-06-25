@@ -184,7 +184,7 @@
 
 ![jocodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/JoseLuisColoma/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&t&show_icons=true&bg_color=00000000&hide=html,css)
 
   
 <hr/>
