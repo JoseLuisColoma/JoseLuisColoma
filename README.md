@@ -91,9 +91,9 @@
     <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="100" height="40"/> 
   </a> 
  <br><br>
- <div align="left">Databases:
+ <div>Databases:
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" style="margin-right: 10px;"/>
