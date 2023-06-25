@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋, I'm Jose Luis <span> ➡️ 👨🏻‍💻 Full-Stack Developer</span></h3>
+<h3 align="left">👨🏻‍💻 I'm Jose Luis <span> ➡️ Full-Stack Developer ⬅️</span></h3>
 
 ##  📣🆕 [Portfolio](https://joseluiscoloma.github.io/portfolio)
 
