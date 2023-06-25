@@ -1,9 +1,7 @@
 <h3 align="left">👨🏻‍💻 I'm Jose Luis <span> ➡️ Full-Stack Developer ⬅️</span></h3>
 
 ##  📣🆕 [Portfolio](https://joseluiscoloma.github.io/portfolio)
-
-<hr/>
-
+<hr>
 <h4 align="left">
   
 - 🔭 # I’m currently working at <i>[Adding Technology](https://www.addingtechnology.es//)</i>
@@ -21,11 +19,8 @@
 - 🤔 I’m looking for help with React, Go, Redis
   
 - 📫 How to reach me: <i>[mail](colomatormojl@gmail.com)</i>
-
 <hr>
-
 <h3> ➡️ Languages, Technologies & Tools</h3>
-
 
 <div>Commons
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -35,9 +30,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="margin-right: 10px;"/> 
   </a> 
 </div>
-
 <br>
-
 <div>Languages
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left:20px; margin-right: 10px;"/> 
@@ -58,9 +51,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
-
 <br>
-
 <div>Frameworks
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" style="margin-left: 10px;margin-right: 10px;"/> </a>
@@ -74,9 +65,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
-
 <br>
-
 <div>Tools
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/>
@@ -88,9 +77,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" style="margin-right: 10px;"/> 
   </a> 
 </div>
-
 <br>
-
 <div>Servers
   <a href="https://www.apache.com/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="80" height="40" style="margin-left: 
@@ -104,9 +91,7 @@
  10px; margin-right: 10px;"/> 
   </a> 
 </div>
-  
- <br>
-       
+ <br> 
  <div>Databases
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="80" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
@@ -127,9 +112,7 @@
       <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 <div>
-  
 <br>
-
 <div>Metodologies
   <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="100" height="50" style="margin-left: 10px; margin-right: 10px;"/> 
@@ -144,11 +127,8 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a>
 </div>
-  
 <hr>
-  
 <div>
-  
 <h3> ➡️ 🥰 Interests:</h3>
 
 - ♟️ Chess
@@ -160,9 +140,7 @@
 - 🏀 Sports
   
 - 🐄 foodie
-  
 <hr>
-
 <h3>➡️ 🤔 About me:</h3>
 
 - Web Developer from Valencia, Spain.
@@ -174,23 +152,18 @@
 - 🐇 Following the white rabbit
   
 - 🚀 One day I will see humans on Mars!
-
 </div>
-
-<br>
-
+<hr>
 <h3>➡️ Stats</h3>
-
 
 ![jocodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&t&show_icons=true&bg_color=00000000&hide=html,css)
+<hr>
+<h3>➡️ 🔗 Connect with me</h3>
 
-  
-<hr/>
 
-<h3>Connect with me on:</h3>
-
+<hr>
 <h3>➡️ 👀 Visitors</h3>
 <img src="https://profile-counter.glitch.me/JoseLuisColoma/count.svg" alt="Contador de Visitas">
 
