@@ -1,6 +1,6 @@
-<h2 align="left">Hi there 👋, I'm Jose Luis <span> ➡️ 👨🏻‍💻 Full-Stack Developer</span></h2>
+<h3 align="left">Hi there 👋, I'm Jose Luis <span> ➡️ 👨🏻‍💻 Full-Stack Developer</span></h3>
 
-## 📣 Visit my [Portfolio](https://joseluiscoloma.github.io/portfolio)
+##  📣🆕 [Portfolio](https://joseluiscoloma.github.io/portfolio)
 
 <hr/>
 
@@ -12,23 +12,23 @@
 
 - 🌱 I’m currently learning <b><i>Clean Code, Software Architecture, React, Go</b></i>
 
-- 👨‍💻 All of my projects are available at <i>https://github.com/JoseLuisColoma</i>
+- 👨‍💻 All of my projects are available at <i>[GitHub](https://github.com/JoseLuisColoma)</i>
 
 - 💬 Ask me about <b><i>Clean Code, Java, JavaScript, PL/SQL, MySQL, Angular, Spring boot<b><i>
 
-- 👯 I’m looking to collaborate on Angular, Spring boot
+- 👯 I’m looking for to collaborate on Angular, Spring boot, development
   
 - 🤔 I’m looking for help with React, Go, Redis
-
+  
 - 📫 How to reach me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/jocodev" height="40" width="50" style="margin-right: 30px;" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/jocodev" height="30" width="40" style="margin-right: 5px;" />
   </a>
-    <a href="https://www.github.com/JoseLuisColoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github/jocodev" height="40" width="50" style="margin-right: 30px;" />
+    <a href="https://www.github.com/JoseLuisColoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github/jocodev" height="30" width="40" style="margin-right: 5px;" />
   </a>
-  <a href="https://instagram.com/jocodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/jocodev" height="40" width="50" style="margin-right: 30px;" />
+  <a href="https://instagram.com/jocodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/jocodev" height="30" width="40" style="margin-right: 5px;" />
   </a>
-</p>
+</div>
 
 <hr>
 
