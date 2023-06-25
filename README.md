@@ -34,7 +34,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
-<br><br>
+
+<br>
+
 <div>Languages:
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left:20px; margin-right: 10px;"/> 
@@ -55,7 +57,9 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
-<br><br>
+
+<br>
+
 <div>Frameworks
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-left: 10px;margin-right: 10px;"/> </a>
@@ -69,7 +73,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
-<br><br>
+
+<br>
+
 <div>Tools:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/>
@@ -81,16 +87,24 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
-<br><br>  
+
+<br>
+
 <div>Servers:
+  <a href="https://www.apache.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="80" height="40" style="margin-left: 
+ 10px; margin-right: 10px"/> 
+  </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="50" style="margin-right: 10px;"/> 
+  </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-left: 
  10px; margin-right: 10px;"/> 
   </a> 
-  <a href="https://www.apache.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="100" height="40"/> 
-  </a> 
- <br><br>
+  
+ <br>
+       
  <div>Databases:
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="70" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
@@ -104,22 +118,36 @@
    </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/> 
   </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 <div>
-<br><br>
+  
+<br>
+
+<div>Metodologies:
+  <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
+  </a>
+    <a href="https://www.kanban.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="50" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
+  </a>
+  
+</div>
+
+<br>
+
 <div>OS:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
   </a>
 </div>
-
+  
 <hr>
-
+  
 <div>
   
 <h3> ➡️ 🥰 Interests:</h3>
@@ -133,7 +161,7 @@
 - 🏀 Sports
   
 - 🐄 foodie
-
+- 
 <hr>
 
 <h3>➡️ 🤔 About me:</h3>
