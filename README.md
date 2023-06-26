@@ -45,7 +45,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
   </a> 
     <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n" target="_blank" rel="noreferrer"> 
-      <img align="center" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="80" height="40" style="margin-right: 10px;"/>
+      <img align="center" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="80" height="80" style="margin-right: 10px;"/>
   </a> 
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="40" style="margin-right: 10px;"/> 
@@ -67,10 +67,13 @@
 </div>
 <br>
 <div>Tools
+  <a href="https://www.vsc.com" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="git" width="35" height="35" style="margin-left: 10px; margin-right: 10px;"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/>
-  </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" style="margin-right: 10px;"/>
   </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
@@ -115,9 +118,11 @@
 <br>
 <div>Metodologies
   <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="100" height="50" style="margin-left: 10px; margin-right: 10px;"/> 
+    <img align="center" src="https://github.com/vorillaz/devicons/blob/master/!SVG/scrum.svg" alt="scrum" width="60" height="60" style="margin-left: 10px; margin-right: 10px;"/> 
   </a>
-  
+   <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="100" height="50" style="margin-right: 10px;"/> 
+   </a>
 </div>
 
 <br>
@@ -131,6 +136,8 @@
 <div>
 <h3> ➡️ 🥰 Interests:</h3>
 
+- 💻 code
+
 - ♟️ Chess
   
 - ✈️ Travel
@@ -143,18 +150,18 @@
 <hr>
 <h3>➡️ 🤔 About me:</h3>
 
-- Web Developer from Valencia, Spain.
+- 🖥️ Full-stack developer from Valencia, Spain, for the world.
 
 - 💙 Clean code lover
   
-- 🐈 Cat dad 😻
+- 🐈 Cat dad 😻.
   
 - 🐇 Following the white rabbit
   
 - 🚀 One day I will see humans on Mars!
 </div>
 <hr>
-<h3>➡️ Stats</h3>
+<h3>➡️ 🧮 Stats</h3>
 
 ![jocodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&bg_color=00000000)
 
