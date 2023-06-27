@@ -154,7 +154,7 @@
 
 - 💙 Clean code lover
 
-- 🧭 My gurus: Kent Beck, Robert C. Martin, Martin Fowler
+- 🧭💻 My gurus: Kent Beck - Robert C. Martin - Martin Fowler
   
 - 🐈 Cat dad 😻
   
