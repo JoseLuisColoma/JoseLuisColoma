@@ -150,15 +150,16 @@
 <hr>
 <h3>➡️ 🤔 About me:</h3>
 
-- 🖥️ Full-stack developer from Valencia, Spain, for the world.
+- 🖥️ Full-stack developer from Valencia, Spain, for the world
 
 - 💙 Clean code lover
+
+- 🧭 My gurus: Kent Beck, Robert C. Martin, Martin Fowler
   
-- 🐈 Cat dad 😻.
+- 🐈 Cat dad 😻
   
 - 🐇 Following the white rabbit
   
-- 🚀 One day I will see humans on Mars!
 </div>
 <hr>
 <h3>➡️ 🧮 Stats</h3>
