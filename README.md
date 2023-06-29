@@ -181,11 +181,10 @@
   </a>
 </div>
   <a href="https://www.codewars.com/users/jocodev" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:40px"/>
+  <img align="center" src="https://github.com/JoseLuisColoma/portfolio/blob/master/svg/logo-codewars.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:40px"/>
   </a>
 </div>
 
-icons/codewars.svg
 
 <hr>
 <h3>➡️ 👀 Visitors</h3>
