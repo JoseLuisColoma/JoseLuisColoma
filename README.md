@@ -1,7 +1,9 @@
 <h3 align="left">👨🏻‍💻 I'm Jose Luis <span> ➡️ Full-Stack Developer ⬅️</span></h3>
 
 ##  📣🆕 [Portfolio](https://joseluiscoloma.github.io/portfolio)
+
 <hr>
+
 <h4 align="left">
   
 - 🔭 # I’m currently working at <i>[Adding Technology](https://www.addingtechnology.es//)</i>
@@ -19,6 +21,24 @@
 - 🤔 I’m looking for help with React, Go, Qwik
   
 - 📫 How to reach me: <i>[mail](colomatormojl@gmail.com)</i>
+
+<hr>
+
+<h3>➡️ 🔗 Connect with me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin/jocodev" height="50" width="50" style="margin-right: 40px"/>
+  </a>
+  <a href="https://www.instagram.com/jocodev/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram/jocodev" height="50" width="50" style="margin-right:40px"/>
+  </a>
+  <a href="https://www.twitter.com/jocodev" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:40px"/>
+  </a>
+  <a href="https://www.codewars.com/users/jocodev" target="blank">
+  <img align="center" src="https://github.com/JoseLuisColoma/portfolio/blob/master/svg/logo-codewars.svg" alt="codewars/jocodev" height="50" width="50" style="margin-right:40px;border-radius: 12px"/>
+  </a>
+</div>
 <hr>
 <h3> ➡️ Languages, Technologies & Tools</h3>
 
@@ -167,23 +187,6 @@
 ![jocodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisColoma&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisColoma&t&show_icons=true&bg_color=00000000&hide=html,css)
-<hr>
-<h3>➡️ 🔗 Connect with me</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jlcoloma/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin/jocodev" height="50" width="50" style="margin-right:40px"/>
-  </a>
-  <a href="https://www.instagram.com/jocodev/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram/jocodev" height="50" width="50" style="margin-right:40px"/>
-  </a>
-  <a href="https://www.twitter.com/jocodev" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:40px"/>
-  </a>
-  <a href="https://www.codewars.com/users/jocodev" target="blank">
-  <img align="center" src="https://github.com/JoseLuisColoma/portfolio/blob/master/svg/logo-codewars.svg" alt="codewars/jocodev" height="50" width="50" style="margin-right:40px;  border-radius: 12px"/>
-  </a>
-</div>
-
 
 <hr>
 <h3>➡️ 👀 Visitors</h3>
