@@ -14,9 +14,9 @@
 
 - 💬 Ask me about <b><i>Clean Code, Java, JavaScript, PL/SQL, MySQL, Angular, Spring boot<b><i>
 
-- 👯 I’m looking for to collaborate on Angular, Spring boot, development
+- 👯 I’m looking for to collaborate on Angular, Spring boot projects
   
-- 🤔 I’m looking for help with React, Go, Redis
+- 🤔 I’m looking for help with React, Go, Qwik
   
 - 📫 How to reach me: <i>[mail](colomatormojl@gmail.com)</i>
 <hr>
