@@ -20,7 +20,7 @@
   
 - 🤔 I’m looking for help with React, Go, Qwik
   
-- 📫 How to reach me: <i>[mail](colomatormojl@gmail.com)</i>
+- 📫 How to reach me: <i>colomatormojl@gmail.com</i>
 
 <hr>
 
