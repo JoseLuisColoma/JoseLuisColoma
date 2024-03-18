@@ -54,6 +54,9 @@
 </div>
 <br>
 <div>Languages
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="java" width="40" height="40" style="margin-left:20px; margin-right: 10px;"/> 
+  </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left:20px; margin-right: 10px;"/> 
   </a> 
@@ -70,7 +73,7 @@
       <img align="center" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="80" height="80" style="margin-right: 10px;"/>
   </a> 
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="40" style="margin-right: 10px;"/> 
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="100" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
 <br>
@@ -80,11 +83,14 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 10px;"/>
   </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="100" height="200" style="margin-right: 10px;"/> 
+  </a> 
+    <a href="https://django.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/> 
   </a> 
 </div>
 <br>
