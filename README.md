@@ -10,13 +10,13 @@
 
 - 👨‍💻 # I’m currently working on <b><i>PL/SQL</i></b> and <b><i>Oracle Databases</i></b>
 
-- 🌱 I’m currently learning <b><i>Clean Code, Software Architecture, React, Go</b></i>
+- 🌱 I’m currently learning <b><i>Pytthon, Clean Code, Software Architecture</b></i>
 
 - 👨‍💻 All of my projects are available at <i>[GitHub](https://github.com/JoseLuisColoma)</i>
 
 - 💬 Ask me about <b><i>Clean Code, Java, JavaScript, PL/SQL, MySQL, Angular, Spring boot<b><i>
 
-- 👯 I’m looking for to collaborate on Angular, Spring boot projects
+- 👯 I’m looking for to collaborate on Python projects
   
 - 🤔 I’m looking for help with React, Go, Qwik
   
