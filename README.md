@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning <b><i>Pytthon, Clean Code, Software Architecture</b></i>
 
+- 🌱 I’m currently improving my <b><i>English</b></i>
+
 - 👨‍💻 All of my projects are available at <i>[GitHub](https://github.com/JoseLuisColoma)</i>
 
 - 💬 Ask me about <b><i>Clean Code, Java, JavaScript, PL/SQL, MySQL, Angular, Spring boot<b><i>
