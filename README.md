@@ -10,7 +10,7 @@
 
 - 👨‍💻 # I’m currently working on <b><i>PL/SQL</i></b> and <b><i>Oracle Databases</i></b>
 
-- 🌱 I’m currently learning <b><i>Pytthon, Clean Code, Software Architecture</b></i>
+- 🌱 I’m currently learning <b><i>Python, Clean Code, Software Architecture</b></i>
 
 - 🌱 I’m currently improving my <b><i>English</b></i>
 
