@@ -6,23 +6,23 @@
 
 <h4 align="left">
   
-- 🔭 # I’m currently working at <i>[Adding Technology](https://www.addingtechnology.es//)</i>
+🔭 I’m currently working at Adding Technology
 
-- 👨‍💻 # I’m currently working on <b><i>PL/SQL</i></b> and <b><i>Oracle Databases</i></b>
+👨‍💻 I’m currently working with PL/SQL and Oracle Databases
 
-- 🌱 I’m currently learning <b><i>Python, Clean Code, Software Architecture</b></i>
+🌱 I’m currently learning Python, Clean Code, and Software Architecture
 
-- 🌱 I’m currently improving my <b><i>English</b></i>
+🌱 Always striving to improve my English skills.
 
-- 👨‍💻 All of my projects are available at <i>[GitHub](https://github.com/JoseLuisColoma)</i>
+👨‍💻 You can find all my projects on GitHub
 
-- 💬 Ask me about <b><i>Clean Code, Java, JavaScript, PL/SQL, MySQL, Angular, Spring boot<b><i>
+💬 Ask me about Clean Code, Java, JavaScript, PL/SQL, MySQL, Angular, and Spring Boot
 
-- 👯 I’m looking for to collaborate on Python projects
-  
-- 🤔 I’m looking for help with React, Go, Qwik
-  
-- 📫 How to reach me: <i>colomatormojl@gmail.com</i>
+👯 I’m looking to collaborate on Python projects
+
+🤔 I’m looking for help with React, Go, and Qwik
+
+📫 How to reach me: colomatormojl@gmail.com
 
 <hr>
 
