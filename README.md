@@ -10,7 +10,7 @@
 
 👨‍💻 I’m currently working with PL/SQL and Oracle Databases
 
-🌱 I’m currently learning Python, Clean Code, and Software Architecture
+🌱 "I am currently pursuing a Master's in Artificial Intelligence and Big Data
 
 🌱 Always striving to improve my English skills.
 
@@ -27,139 +27,134 @@
 <hr>
 
 <h3>➡️ 🔗 Connect with me</h3>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 80px;">
   <a href="https://www.linkedin.com/in/jlcoloma/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin/jocodev" height="50" width="50" style="margin-right: 40px"/>
   </a>
   <a href="https://www.instagram.com/jocodev/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram/jocodev" height="50" width="50" style="margin-right:40px"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram/jocodev" height="50" width="50" style="margin-right:60px" style="margin-left:60px" />
   </a>
   <a href="https://www.twitter.com/jocodev" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:40px"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter/jocodev" height="50" width="50" style="margin-right:60px"/>
   </a>
   <a href="https://www.codewars.com/users/jocodev" target="blank">
-  <img align="center" src="https://github.com/JoseLuisColoma/portfolio/blob/master/svg/logo-codewars.svg" alt="codewars/jocodev" height="50" width="50" style="margin-right:40px;border-radius: 12px"/>
+  <img align="center" src="https://github.com/JoseLuisColoma/portfolio/blob/master/svg/logo-codewars.svg" alt="codewars/jocodev" height="50" width="50" style="margin-right:60px;border-radius: 12px"/>
   </a>
 </div>
 <hr>
+<h3>➡️ Languages, Technologies & Tools</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <!-- Programming Languages -->
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50" width="50"/>
+  
+  <!-- Databases -->
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle DB" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" width="50"/>
+  
+  <!-- AI & Big Data -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/TensorFlowLogo.svg" alt="TensorFlow" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="50" width="50"/>
+  
+  <!-- Web & Backend -->
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50" width="50"/>
+  
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" width="50"/>
+</div>
+
+
 <h3> ➡️ Languages, Technologies & Tools</h3>
+<h3 style="text-align: left;">➡️ Languages, Technologies & Tools</h3>
 
-<div>Commons
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="margin-left: 10px; margin-right: 10px;"/> 
-  </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="margin-right: 10px;"/> 
-  </a> 
-</div>
-<br>
-<div>Languages
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="java" width="40" height="40" style="margin-left:20px; margin-right: 10px;"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left:20px; margin-right: 10px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/> 
-  </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="50" height="40" style="margin-right: 10px;"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
-  </a> 
-    <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n" target="_blank" rel="noreferrer"> 
-      <img align="center" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="80" height="80" style="margin-right: 10px;"/>
-  </a> 
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="100" height="40" style="margin-right: 10px;"/> 
-  </a> 
-</div>
-<br>
-<div>Frameworks
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" style="margin-left: 10px;margin-right: 10px;"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 10px;"/>
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="100" height="200" style="margin-right: 10px;"/> 
-  </a> 
-    <a href="https://django.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="laravel" width="40" height="40" style="margin-right: 10px;"/> 
-  </a> 
-</div>
-<br>
-<div>Tools
-  <a href="https://www.vsc.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="git" width="35" height="35" style="margin-left: 10px; margin-right: 10px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45" style="margin-right: 10px;"/>
-  </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" style="margin-right: 10px;"/> 
-  </a> 
-</div>
-<br>
-<div>Servers
-  <a href="https://www.apache.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="80" height="40" style="margin-left: 
- 10px; margin-right: 10px"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="50" style="margin-right: 10px;"/> 
-  </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" style="margin-left: 
- 10px; margin-right: 10px;"/> 
-  </a> 
-</div>
- <br> 
- <div>Databases
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="80" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
-  </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right: 10px;"/>
-  </a> 
-   </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/> 
-  </a> 
-   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-      <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/> 
-  </a> 
-<div>
-<br>
-<div>Metodologies
-  <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://github.com/vorillaz/devicons/blob/master/!SVG/scrum.svg" alt="scrum" width="60" height="60" style="margin-left: 10px; margin-right: 10px;"/> 
-  </a>
-   <a href="https://www.trello.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="100" height="50" style="margin-right: 10px;"/> 
-   </a>
+<!-- Contenedor general -->
+<div align="left" style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- Common Technologies -->
+  <h4 style="text-align: left;">🔹 Common Technologies</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="50"/>
+  </div>
+
+  <!-- Programming Languages -->
+  <h4 style="text-align: left;">🔹 Programming Languages</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="GoLang" height="50"/>
+  </div>
+
+  <!-- Frameworks -->
+  <h4 style="text-align: left;">🔹 Frameworks</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50"/>
+  </div>
+
+  <!-- AI & Big Data -->
+  <h4 style="text-align: left;">🔹 AI & Big Data</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="50"/>
+    <img src="https://nifi.apache.org/assets/images/ni-fi-logo.svg" alt="NiFi" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PySpark-logo.png" alt="PySpark" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/LangChain.png" alt="LangChain" height="50"/>
+  </div>
+
+  <!-- Cloud & Servers -->
+  <h4 style="text-align: left;">🔹 Cloud & Servers</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="Google Cloud" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50"/>
+  </div>
+
+  <!-- Databases -->
+  <h4 style="text-align: left;">🔹 Databases</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle DB" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/MariaDB_logo.svg" alt="MariaDB" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/HeidiSQL_Logo.png" alt="HeidiSQL" height="50"/>
+  </div>
+
+  <!-- Tools -->
+  <h4 style="text-align: left;">🔹 Development Tools</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Eclipse_Logo.svg" alt="Eclipse" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Power_BI_Logo.svg" alt="Power BI" height="50"/>
+  </div>
+
+  <!-- Operating Systems -->
+  <h4 style="text-align: left;">🔹 Operating Systems</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 50px;">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50"/>
+  </div>
+
 </div>
 
-<br>
 
-<div>OS:
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-left: 10px; margin-right: 10px;"/> 
-  </a>
-</div>
 <hr>
 <div>
 <h3> ➡️ 🥰 Interests:</h3>
