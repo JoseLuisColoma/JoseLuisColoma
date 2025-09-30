@@ -13,16 +13,16 @@
 ### 🔗 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/jlcoloma/">
-    <img src="./assets/logos/linkedin.svg" alt="LinkedIn" height="40"/>
+    <img src="./assets/logos/linkedin-icon.svg" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://www.instagram.com/jocodev/">
-    <img src="./assets/logos/instagram.svg" alt="Instagram" height="40"/>
+    <img src="./assets/logos/instagram-icon.svg" alt="Instagram" height="40"/>
   </a>
   <a href="https://www.twitter.com/jocodev">
-    <img src="./assets/logos/twitter.svg" alt="Twitter" height="40"/>
+    <img src="./assets/logos/twitter-icon.svg" alt="Twitter" height="40"/>
   </a>
   <a href="https://www.codewars.com/users/jocodev">
-    <img src="./assets/logos/codewars.svg" alt="Codewars" height="40"/>
+    <img src="./assets/logos/codewars-icon.svg" alt="Codewars" height="40"/>
   </a>
 </p>
 
@@ -41,19 +41,19 @@
 
 #### Frameworks
 <p>
-  <img src="./assets/logos/angular.svg" alt="Angular" height="40"/>
-  <img src="./assets/logos/django.svg" alt="Django" height="40"/>
-  <img src="./assets/logos/spring.svg" alt="Spring Boot" height="40"/>
-  <img src="./assets/logos/laravel.svg" alt="Laravel" height="40"/>
+  <img src="./assets/logos/angular-angular.svg" alt="Angular" height="40"/>
+  <img src="./assets/logos/djangoproject-icon.svg" alt="Django" height="40"/>
+  <img src="./assets/logos/springio-icon.svg" alt="Spring Boot" height="40"/>
+  <img src="./assets/logos/laravel-icon.svg" alt="Laravel" height="40"/>
 </p>
 
 #### Databases
 <p>
-  <img src="./assets/logos/mysql.svg" alt="MySQL" height="40"/>
-  <img src="./assets/logos/oracle.svg" alt="Oracle" height="40"/>
-  <img src="./assets/logos/postgresql.svg" alt="PostgreSQL" height="40"/>
-  <img src="./assets/logos/mongodb.svg" alt="MongoDB" height="40"/>
-  <img src="./assets/logos/mariadb.svg" alt="MariaDB" height="40"/>
+  <img src="./assets/logos/mysql-icon.svg" alt="MySQL" height="40"/>
+  <img src="./assets/logos/oracle-icon.svg" alt="Oracle" height="40"/>
+  <img src="./assets/logos/postgresql-icon.svg" alt="PostgreSQL" height="40"/>
+  <img src="./assets/logos/mongodb-icon.svg" alt="MongoDB" height="40"/>
+  <img src="./assets/logos/mariadb-icon.svg" alt="MariaDB" height="40"/>
 </p>
 
 #### AI & Big Data
