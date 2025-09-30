@@ -71,7 +71,7 @@
   <img src="./assets/logos/git-scm-icon.svg" alt="Git" height="40"/>
   <img src="./assets/logos/docker-icon.svg" alt="Docker" height="40"/>
   <img src="./assets/logos/amazon_aws-icon.svg" alt="AWS" height="40"/>
-  <img src="./assets/logos/gcp.svg" alt="Google Cloud" height="40"/>
+  <img src="./assets/logos/goggle-cloud-icon.png" alt="Google Cloud" height="40"/>
 </p>
 
 ---
