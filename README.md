@@ -62,8 +62,8 @@
   <img src="./assets/logos/keras-icon.svg" alt="Keras" height="40"/>
   <img src="./assets/logos/pytorch-icon.svg" alt="PyTorch" height="40"/>
   <img src="./assets/logos/apache_spark-icon.svg" alt="Apache Spark" height="40"/>
-  <img src="./assets/logos/apache-nifi-icon.svg" alt="NiFi" height="40"/>
-  <img src="./assets/logos/langchain-icon.svg" alt="LangChain" height="40"/>
+  <img src="./assets/logos/apache-nifi-icon.png" alt="NiFi" height="40"/>
+  <img src="./assets/logos/langchain-icon.png" alt="LangChain" height="40"/>
   <img src="./assets/logos/hadoop-icon.svg" alt="Hadoop" height="40"/>
 </p>
 
