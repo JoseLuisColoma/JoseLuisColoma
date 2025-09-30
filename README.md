@@ -19,7 +19,7 @@
     <img src="./assets/logos/instagram-icon.svg" alt="Instagram" height="40"/>
   </a>
   <a href="https://www.twitter.com/jocodev">
-    <img src="./assets/logos/twitter-icon.svg" alt="Twitter" height="40"/>
+    <img src="./assets/logos/equis-icon.svg" alt="Twitter" height="40"/>
   </a>
   <a href="https://www.codewars.com/users/jocodev">
     <img src="./assets/logos/codewars-icon.svg" alt="Codewars" height="40"/>
@@ -41,7 +41,7 @@
 
 #### Frameworks
 <p>
-  <img src="./assets/logos/angular-angular.svg" alt="Angular" height="40"/>
+  <img src="./assets/logos/angular-icon.svg" alt="Angular" height="40"/>
   <img src="./assets/logos/djangoproject-icon.svg" alt="Django" height="40"/>
   <img src="./assets/logos/springio-icon.svg" alt="Spring Boot" height="40"/>
   <img src="./assets/logos/laravel-icon.svg" alt="Laravel" height="40"/>
