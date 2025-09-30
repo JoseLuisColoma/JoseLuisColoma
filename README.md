@@ -58,21 +58,20 @@
 
 #### AI & Big Data
 <p>
-  <img src="./assets/logos/tensorflow.svg" alt="TensorFlow" height="40"/>
-  <img src="./assets/logos/keras.svg" alt="Keras" height="40"/>
-  <img src="./assets/logos/pytorch.svg" alt="PyTorch" height="40"/>
-  <img src="./assets/logos/hadoop.svg" alt="Hadoop" height="40"/>
-  <img src="./assets/logos/spark.svg" alt="Apache Spark" height="40"/>
-  <img src="./assets/logos/nifi.svg" alt="NiFi" height="40"/>
-  <img src="./assets/logos/pyspark.svg" alt="PySpark" height="40"/>
-  <img src="./assets/logos/langchain.svg" alt="LangChain" height="40"/>
+  <img src="./assets/logos/tensorflow-icon.svg" alt="TensorFlow" height="40"/>
+  <img src="./assets/logos/keras-icon.svg" alt="Keras" height="40"/>
+  <img src="./assets/logos/pytorch-icon.svg" alt="PyTorch" height="40"/>
+  <img src="./assets/logos/apache_spark-icon.svg" alt="Apache Spark" height="40"/>
+  <img src="./assets/logos/apache-nifi-icon.svg" alt="NiFi" height="40"/>
+  <img src="./assets/logos/langchain-icon.svg" alt="LangChain" height="40"/>
+  <img src="./assets/logos/hadoop-icon.svg" alt="Hadoop" height="40"/>
 </p>
 
 #### Tools & Cloud
 <p>
-  <img src="./assets/logos/git.svg" alt="Git" height="40"/>
-  <img src="./assets/logos/docker.svg" alt="Docker" height="40"/>
-  <img src="./assets/logos/aws.svg" alt="AWS" height="40"/>
+  <img src="./assets/logos/git-scm-icon.svg" alt="Git" height="40"/>
+  <img src="./assets/logos/docker-icon.svg" alt="Docker" height="40"/>
+  <img src="./assets/logos/amazon_aws-icon.svg" alt="AWS" height="40"/>
   <img src="./assets/logos/gcp.svg" alt="Google Cloud" height="40"/>
 </p>
 
