@@ -31,12 +31,12 @@
 ### 🛠️ Languages, Technologies & Tools
 #### Programming Languages
 <p>
-  <img src="./assets/logos/python.svg" alt="Python" height="40"/>
-  <img src="./assets/logos/java.svg" alt="Java" height="40"/>
-  <img src="./assets/logos/javascript.svg" alt="JavaScript" height="40"/>
-  <img src="./assets/logos/php.svg" alt="PHP" height="40"/>
-  <img src="./assets/logos/typescript.svg" alt="TypeScript" height="40"/>
-  <img src="./assets/logos/golang.svg" alt="GoLang" height="40"/>
+  <img src="./assets/logos/python-icon.svg" alt="Python" height="40"/>
+  <img src="./assets/logos/java-icon.svg" alt="Java" height="40"/>
+  <img src="./assets/logos/javascript-icon.svg" alt="JavaScript" height="40"/>
+  <img src="./assets/logos/php-icon.svg" alt="PHP" height="40"/>
+  <img src="./assets/logos/typescript-icon.svg" alt="TypeScript" height="40"/>
+  <img src="./assets/logos/golang-icon.svg" alt="GoLang" height="40"/>
 </p>
 
 #### Frameworks
